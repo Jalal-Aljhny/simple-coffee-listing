@@ -17,5 +17,3 @@
 - Render Coffee list with given data. The data should come from a given API or downloaded JSON file.
 
 - Users can choose to list all products or just available products.
-
-- Deploy the solution and submit Repository URL and Demo URL.
